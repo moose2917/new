@@ -2,5 +2,8 @@ print('hi')
 print('hi123')
 
 print('hihihi')
-
+<<<< head
 print('hello')
+
+=====
+>>>> jerry2
